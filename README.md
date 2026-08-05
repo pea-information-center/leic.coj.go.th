@@ -1,4 +1,7 @@
 # leic.coj.go.th
+# [กรมการปกครองจังหวัดเลย](https://github.com/pea-information-center/www.amphoe.com)
+# [การไฟฟ้าจังหวัดเลย](www.pea.co.th)
+# [ตำรวจตรวจคนเข้าเมืองเชียงคาน](https://github.com/pea-information-center/www.loei.immigration.go.th)
 https://de-wikipedia-org.translate.goog/wiki/Loei_(Provinz)?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc
 <!-- wp:paragraph -->
 <p><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"></a></p>
