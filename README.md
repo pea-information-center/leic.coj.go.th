@@ -16,3 +16,4 @@ https://github.com/Loei-Provincial-Court-New
 <!-- wp:image {"id":517,"sizeSlug":"large","linkDestination":"custom"} -->
 <figure class="wp-block-image size-large"><a href="https://leic.coj.go.th/th/page/item/index/id/1/#7585"><img src="https://js100comensitenewsview135424com.wordpress.com/wp-content/uploads/2026/08/screenshot_2026-08-07-23-23-00-20_4641ebc0df1485bf6b47ebd018b5ee766993235595168503712.jpg?w=460" alt="" class="wp-image-517"/></a></figure>
 <!-- /wp:image -->
+<img width="240" height="320" alt="3790" src="https://github.com/user-attachments/assets/0f7d299d-cb52-4bef-a5e4-f1235ed1f740" />
