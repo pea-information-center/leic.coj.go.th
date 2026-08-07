@@ -5,6 +5,25 @@
 # [ตำรวจตรวจคนเข้าเมืองเชียงคาน](https://github.com/pea-information-center/www.loei.immigration.go.th)
 # https://www.oncb.go.th/#/https://cloud.maptiler.com/account/analytics?chart=doughnut&classifier=services&period=current_billing_period&group=request
 # https://soloist.ai/chiangkhan
+<!-- wp:paragraph -->
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFfdAUtTzhjqzAiAlKHij0We7pgPkCK3fhPWsM8oRrSZdHp1MljCLWv3kcBo9FmlIKBJhOsHOp-dhk/pubchart?oid=807266793&amp;format=interactive">https://docs.google.com/spreadsheets/d/e/2PACX-1vSFfdAUtTzhjqzAiAlKHij0We7pgPkCK3fhPWsM8oRrSZdHp1MljCLWv3kcBo9FmlIKBJhOsHOp-dhk/pubchart?oid=807266793&amp;format=interactive</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFfdAUtTzhjqzAiAlKHij0We7pgPkCK3fhPWsM8oRrSZdHp1MljCLWv3kcBo9FmlIKBJhOsHOp-dhk/pubchart?oid=850867863&amp;format=interactive">https://docs.google.com/spreadsheets/d/e/2PACX-1vSFfdAUtTzhjqzAiAlKHij0We7pgPkCK3fhPWsM8oRrSZdHp1MljCLWv3kcBo9FmlIKBJhOsHOp-dhk/pubchart?oid=850867863&amp;format=interactive</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://pea-information-center.jimdofree.com/%E0%B8%AA%E0%B8%96-%E0%B8%95-%E0%B8%84%E0%B8%94/">https://pea-information-center.jimdofree.com/%E0%B8%AA%E0%B8%96-%E0%B8%95-%E0%B8%84%E0%B8%94/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://pea-information-center.jimdofree.com/%E0%B8%AA%E0%B8%96-%E0%B8%95-%E0%B8%84%E0%B8%94/">https://pea-information-center.jimdofree.com/%E0%B8%AA%E0%B8%96-%E0%B8%95-%E0%B8%84%E0%B8%94/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://public.tableau.com/views/12254/BI01-01-00?:language=th-TH&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">https://public.tableau.com/views/12254/BI01-01-00?:language=th-TH&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link</a></p>
+<!-- /wp:paragraph -->
 https://de-wikipedia-org.translate.goog/wiki/Loei_(Provinz)?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc
 <!-- wp:paragraph -->
 <p><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81"></a></p>
