@@ -1,4 +1,18 @@
-
+# https://www.nvidia.com/en-us/geforce-now/system-reqs/
+# /home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/node_modules/@actions/core/lib/core.js:118
+        throw new Error(`Input required and not supplied: ${name}`);
+^
+Error: Input required and not supplied: api_key
+    at Object.getInput (/home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/node_modules/@actions/core/lib/core.js:118:1)
+    at /home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/lib/resolve-config.js:43:1
+    at Generator.next (<anonymous>)
+    at /home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/lib/resolve-config.js:27:1
+    at new Promise (<anonymous>)
+    at __webpack_modules__.73303.__awaiter (/home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/lib/resolve-config.js:23:1)
+    at resolveConfig (/home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/lib/resolve-config.js:38:1)
+    at /home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/dist/index.js:45:61
+    at Generator.next (<anonymous>)
+    at /home/runner/work/_actions/DataDog/synthetics-ci-github-action/87b505388a22005bb8013481e3f73a367b9a53eb/dist/index.js:34:71
 ## Overview and Purpose
 
 Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
