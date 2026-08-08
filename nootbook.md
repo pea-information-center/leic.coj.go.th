@@ -34,3 +34,4 @@
 # https://github.com/pea-information-center/leic.coj.go.th/wiki/com.opera.browser.beta
 # https://github.com/pea-information-center/leic.coj.go.th/wiki/beta
 # https://github.com/pea-information-center/leic.coj.go.th/wiki
+# https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2
