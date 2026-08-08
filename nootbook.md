@@ -30,3 +30,7 @@
 # https://github.com/pea-information-center/B38834-24-0448
 # https://github.com/pea-information-center/commons.wikimedia.org
 # https://github.com/pea-information-center/www.loei.immigration.go.th
+# https://github.com/pea-information-center/leic.coj.go.th/wiki/HTML
+# https://github.com/pea-information-center/leic.coj.go.th/wiki/com.opera.browser.beta
+# https://github.com/pea-information-center/leic.coj.go.th/wiki/beta
+# https://github.com/pea-information-center/leic.coj.go.th/wiki
