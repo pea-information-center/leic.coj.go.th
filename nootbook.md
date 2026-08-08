@@ -35,3 +35,17 @@
 # https://github.com/pea-information-center/leic.coj.go.th/wiki/beta
 # https://github.com/pea-information-center/leic.coj.go.th/wiki
 # https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2
+# https://www.wikibooks.org/
+# https://www.wikiquote.org/
+# https://www.wiktionary.org/
+# https://www.wikipedia.org/
+# https://www.wikispecies.org/
+# https://www.wikiversity.org/
+# https://www.wikisource.org/
+# https://commons.wikimedia.org/
+# https://www.wikibooks.org/
+# https://meta.wikimedia.org/
+# https://www.wikivoyage.org/
+# https://www.mediawiki.org/
+# https://www.wikifunctions.org/
+# https://www.wikidata.org/
