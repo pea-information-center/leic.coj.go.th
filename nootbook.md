@@ -66,3 +66,31 @@
 # https://github.com/community/events
 # https://github.com/community/OSPO
 # https://github.com/community/.github
+# https://github.com/orgs/community/discussions/categories/apps-api-and-webhooks
+# https://github.com/orgs/community/discussions/categories/copilot-news-and-announcements
+# https://github.com/orgs/community/discussions/categories/copilot-conversations
+# https://github.com/orgs/community/discussions/categories/announcements
+# https://github.com/orgs/community/discussions/categories/accessibility
+# https://github.com/orgs/community/discussions/categories/codespaces
+# https://github.com/orgs/community/discussions/categories/packages
+# https://github.com/orgs/community/discussions/categories/actions
+# https://github.com/orgs/community/discussions/categories/npm
+# https://github.com/orgs/community/discussions/categories/mobile
+# https://github.com/orgs/community/discussions/categories/a-welcome-to-github
+# https://github.com/orgs/community/discussions/categories/projects-and-issues
+# https://github.com/orgs/community/discussions/categories/discussions
+# https://github.com/orgs/community/discussions/categories/repositories
+# https://github.com/orgs/community/discussions/categories/pull-requests
+# https://github.com/orgs/community/discussions/categories/github-learn
+# https://github.com/orgs/community/discussions/categories/github-education
+# https://github.com/orgs/community/discussions/categories/discover-github-best-practices
+# https://github.com/orgs/community/discussions/categories/programming-help
+# https://github.com/orgs/community/discussions/categories/new-to-github
+# https://github.com/orgs/community/discussions/categories/other-feature-feedback-questions-ideas
+# https://github.com/orgs/community/discussions/categories/enterprise
+# https://github.com/orgs/community/discussions/categories/github-learn
+
+
+
+
+
